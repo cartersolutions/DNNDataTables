@@ -1,0 +1,19 @@
+﻿[AntiForgeryToken:true]
+
+<!-- Debug -->
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/runtime.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/polyfills-es5.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/polyfills.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/styles.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/scripts.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/vendor.js", priority:100, provider: "DnnFormBottomProvider"}]
+[JavaScript:{ path: "~/DesktopModules/DNNDataTables/dist/main.js", priority:100, provider: "DnnFormBottomProvider"}]
+<!-- End: Debug -->
+<!-- if you use material design -->
+[Css:{ path: "https://fonts.googleapis.com/icon?family=Material+Icons"}]
+
+<base href="[ModuleProperties:rawurl]">
+<app-root>
+    <p>Loading....</p>
+</app-root>
+<script>window["DNNDataTables"] = [ModuleProperties:All]</script>

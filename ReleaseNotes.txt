@@ -1,0 +1,12 @@
+﻿<h3>DNNDataTables</h3>
+<p class="Contributor">
+	Tony Carter <br />
+	<a href="mailto:info@cartersolutions.com">info@cartersolutions.com</a><br />
+	<a href=http://www.cartersolutions.com/>http://www.cartersolutions.com/</a>
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DNNDataTables</h3>
+	<p class="Owner">
+		<b>Version 1.0.0</b><br /><br /></p>
+</div>

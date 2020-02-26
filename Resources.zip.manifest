@@ -1,0 +1,76 @@
+﻿<dotnetnuke type="ResourceFile" version="5.0">
+  <files>
+    <file>
+      <path>dist/</path>
+      <name>index.html</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>main-es2015.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>main-es5.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>polyfills-es2015.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>polyfills-es5.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>runtime-es2015.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>runtime-es5.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>scripts.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>styles-es2015.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>styles-es5.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>vendor-es2015.js</name>
+    </file>
+    <file>
+      <path>dist/</path>
+      <name>vendor-es5.js</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>View.ascx.resx</name>
+    </file>
+    <file>
+      <path />
+      <name>License.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>module.css</name>
+    </file>
+    <file>
+      <path />
+      <name>ReleaseNotes.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>View.html</name>
+    </file>
+  </files>
+</dotnetnuke>
